@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ce4152b2b61ebe44a4f8d07e5ddd88a
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 50
+  forceTextureCase: 1
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  customCharacters: 1234567890cartonu
+  fontRenderingMode: 0
+  userData: 

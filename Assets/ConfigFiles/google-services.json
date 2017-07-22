@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "535277498558",
+    "firebase_url": "https://shot-to-the-cube.firebaseio.com",
+    "project_id": "shot-to-the-cube",
+    "storage_bucket": "shot-to-the-cube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535277498558:android:782a39f173e6dd50",
+        "android_client_info": {
+          "package_name": "com.greencube.shotcube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535277498558-ogr628phpb1tdfdqkkcigin704fit8ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbSD3HBQtKAGREjhEH--5xRRHhnFESGGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
