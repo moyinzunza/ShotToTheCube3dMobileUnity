@@ -124,7 +124,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.6.5
+  bundleVersion: 1.6.5b
   preloadedAssets: []
   metroInputSource: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -151,7 +151,7 @@ PlayerSettings:
     tvOS: com.greencube.shotcube
   buildNumber:
     iOS: 0
-  AndroidBundleVersionCode: 53
+  AndroidBundleVersionCode: 54
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1

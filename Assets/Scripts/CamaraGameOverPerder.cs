@@ -134,37 +134,37 @@ public class CamaraGameOverPerder : MonoBehaviour {
 			switch (Application.systemLanguage.ToString ()) {
 				
 			case "Spanish":
-                    skip_text.text = "Ver video para saltar nivel";
+                    skip_text.text = "Ver anuncio para saltar nivel";
 				    Titulo.text = "Perdiste";
 				    TituloSombra.text = "Perdiste";
                     break;
 				
 			case "English":
-                    skip_text.text = "Watch video to skip level";
+                    skip_text.text = "Watch ad to skip level";
                     Titulo.text = "You lose";
 				    TituloSombra.text = "You lose";
                     break;
 				
 			case "Japanese":
-                    skip_text.text = "レベルをスキップするビデオを見る";
+                    skip_text.text = "広告を見てレベルをスキップする";
                     Titulo.text = "あなたは失う";
 				    TituloSombra.text = "あなたは失う";
                     break;
 				
 			case "German":
-                    skip_text.text = "Video ansehen, um Level zu überspringen";
+                    skip_text.text = "siehe Anzeige zu springen Ebene";
                     Titulo.text = "Du verlierst";
 				    TituloSombra.text = "Du verlierst";
                     break;
 				
 			case "Russian":
-                    skip_text.text = "Смотреть видео, чтобы пропустить уровень";
+                    skip_text.text = "Смотреть объявление и пропустить уровень";
                     Titulo.text = "Ты проиграл";
 				    TituloSombra.text = "Ты проиграл";
                     break;
 				
 			default:
-                    skip_text.text = "Watch video to skip level";
+                    skip_text.text = "Watch ad to skip level";
                     Titulo.text = "You lose";
                     TituloSombra.text = "You lose";
                     break;
