@@ -6,6 +6,9 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
+#Add DLL
+!*.dll
+
 # Visual Studio 2017 cache directory
 /.vs/
 
