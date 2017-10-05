@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: fb7282b3a3114483b0c6d22c7011cf90
-labels:
-- gvh
-- gvh_v4.0.2
+guid: 323d27647d5df45d9998ae0894903f88
+timeCreated: 1427838350
+licenseType: Free
 PluginImporter:
   serializedVersion: 2
   iconMap: {}

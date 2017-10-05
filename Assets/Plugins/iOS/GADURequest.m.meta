@@ -1,8 +1,6 @@
 fileFormatVersion: 2
-guid: 3c7fe4bee202d664c885f400117c6300
-labels:
-- gpsr
-timeCreated: 1500594142
+guid: 8295da9057f6c4276afc8358d78f5129
+timeCreated: 1427838352
 licenseType: Free
 PluginImporter:
   serializedVersion: 2
@@ -11,12 +9,6 @@ PluginImporter:
   isPreloaded: 0
   isOverridable: 0
   platformData:
-    data:
-      first:
-        Android: Android
-      second:
-        enabled: 1
-        settings: {}
     data:
       first:
         Any: 
@@ -30,6 +22,12 @@ PluginImporter:
         enabled: 0
         settings:
           DefaultValueInitialized: true
+    data:
+      first:
+        iPhone: iOS
+      second:
+        enabled: 1
+        settings: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
