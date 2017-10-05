@@ -80,9 +80,9 @@ public class BotonesMain : MonoBehaviour {
 #if UNITY_ANDROID
         string adUnitId2 = "ca-app-pub-7511977534046999/7567184065";
 #elif UNITY_IPHONE
-        string adUnitId2 = "INSERT_IOS_INTERSTITIAL_AD_UNIT_ID_HERE";
+        string adUnitId2 = "ca-app-pub-3822583872419139/5153330669";
 #else
-        string adUnitId2 = "unexpected_platform";
+		string adUnitId2 = "unexpected_platform";
 #endif
 
         // Initialize an InterstitialAd.

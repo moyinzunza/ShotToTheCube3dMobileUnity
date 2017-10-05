@@ -39,12 +39,12 @@ public class BotonesGame : MonoBehaviour {
 
     private void RequestRewardBasedVideo()
     {
-    #if UNITY_ANDROID
+#if UNITY_ANDROID
         string adUnitId = "ca-app-pub-7511977534046999/7433804910";
-    #elif UNITY_IPHONE
-        string adUnitId = "";
-    #else
-        string adUnitId = "unexpected_platform";
+#elif UNITY_IPHONE
+        string adUnitId = "ca-app-pub-3822583872419139/1962037024";
+#else
+		string adUnitId = "unexpected_platform";
     #endif
 
         rewardBasedVideo = RewardBasedVideoAd.Instance;
@@ -156,12 +156,12 @@ public class BotonesGame : MonoBehaviour {
 
     public void RequestBanner()
     {
-    #if UNITY_ANDROID
+#if UNITY_ANDROID
         string adUnitId = "ca-app-pub-7511977534046999/3038836469";
-    #elif UNITY_IPHONE
-        string adUnitId = "INSERT_IOS_BANNER_AD_UNIT_ID_HERE";
-    #else
-        string adUnitId = "unexpected_platform";
+#elif UNITY_IPHONE
+        string adUnitId = "ca-app-pub-3822583872419139/9080310842";
+#else
+		string adUnitId = "unexpected_platform";
     #endif
 
         // Create a 320x50 banner at the top of the screen.
@@ -189,12 +189,12 @@ public class BotonesGame : MonoBehaviour {
 
     public void RequestInterstitial()
     {
-    #if UNITY_ANDROID
+#if UNITY_ANDROID
         string adUnitId2 = "ca-app-pub-7511977534046999/1143300864";
-    #elif UNITY_IPHONE
-        string adUnitId2 = "INSERT_IOS_INTERSTITIAL_AD_UNIT_ID_HERE";
-    #else
-        string adUnitId2 = "unexpected_platform";
+#elif UNITY_IPHONE
+        string adUnitId2 = "ca-app-pub-3822583872419139/5153330669";
+#else
+		string adUnitId2 = "unexpected_platform";
     #endif
 
         // Initialize an InterstitialAd.

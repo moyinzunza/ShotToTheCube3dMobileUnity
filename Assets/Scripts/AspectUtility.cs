@@ -14,7 +14,7 @@ public class AspectUtility : MonoBehaviour {
     void Start()
     {
         Scene scene = SceneManager.GetActiveScene();
-        Firebase.Analytics.FirebaseAnalytics.SetCurrentScreen(scene.name, scene.name);
+        //Firebase.Analytics.FirebaseAnalytics.SetCurrentScreen(scene.name, scene.name);
         Debug.Log(scene.name);
     }
 	
